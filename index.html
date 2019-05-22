@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>The Jonathan Maberry Universe</title>
+    <meta name="description" content="Houstonâ€™s voice caught the imagination of the world propelling her to superstardom at an early age becoming one of the most awarded performers of our time.">
+    <meta charset="utf-8">
+    <meta name="viewport" content="initial-scale=1,width=device-width">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-touch-fullscreen" content="yes">
+    <!-- Style-->
+    <style>
+      html, body {
+      height:100%;
+      padding: 0px;
+      margin: 0px;
+      }
+    </style>
+    <!-- HTML5 shim, for IE6-8 support of HTML elements--><!--[if lt IE 9]>
+    <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+	<link rel="shortcut icon" href="https://cdn.knightlab.com/libs/blueline/latest/assets/logos/favicon.ico"> 
+  </head>
+  <body>
+        <!-- Demo -->
+  <div id="timeline-embed">
+    <div id="timeline"></div>
+  </div>
+  <link rel="stylesheet" href="https://cdn.knightlab.com/libs/timeline3/latest/css/timeline.css">
+  <link rel="stylesheet" href="https://cdn.knightlab.com/libs/timeline3/latest/css/timeline.css">
+  <script type="text/javascript" src="https://cdn.knightlab.com/libs/timeline3/latest/js/timeline-min.js"></script>
+  <!--<script>
+    $(document).ready(function(){
+        var embed = document.getElementById('timeline-embed');
+        embed.style.height = getComputedStyle(document.body).height;
+        window.timeline = new TL.Timeline('timeline-embed', 'timelinejmu.json', { hash_bookmark: true});
+        window.addEventListener('resize', function() {
+          var embed = document.getElementById('timeline-embed');
+          embed.style.height = getComputedStyle(document.body).height;
+          timeline.updateDisplay();
+        })
+      });
+  </script>-->
+  <script type="text/javascript">
+	var additionalOptions = {
+		start_at_end: false,
+		hash_bookmark: true
+	}
+	
+	timeline = new TL.Timeline('timeline-embed',
+	'timelinejmu.json',
+	additionalOptions);
+  </script>
+  </body>
+</html>
