@@ -13,15 +13,14 @@
       {
         "media": {
           "url": "{{static_url}}/img/patient-zero.jpg",
-          "caption": "Patient Zero. Published in March 2009 by St. Martins Griffin",
-          "credit": "Cissy Houston photo:<a href='http://www.flickr.com/photos/11447043@N00/418180903/'>Tom Marcello</a><br/><a href='http://commons.wikimedia.org/wiki/File%3ADionne_Warwick_television_special_1969.JPG'>Dionne Warwick: CBS Television via Wikimedia Commons</a>"
+          "caption": "Patient Zero. Published in March 2009 by St. Martins Griffin"
         },
         "start_date": {
           "month": "11",
           "day": "27",
 		  "year": "2009",
           "hour": "10",
-		  "min": "22"
+		  "minute": "22"
         },
         "text": {
           "headline": "Patient Zero",
@@ -30,12 +29,15 @@
       },
       {
         "media": {
-          "url": "https://youtu.be/fSrO91XO1Ck",
-          "caption": "",
-          "credit": "<a href=\"http://unidiscmusic.com\">Unidisc Music</a>"
+          "url": "{{static_url}}/img/dragon-factory.jpg",
+          "caption": "Dragon Factory. Published in March 2010 by St Martin's Griffin."
         },
         "start_date": {
-          "year": "1978"
+          "month": "8",
+          "day": "28",
+		  "year": "2010",
+          "hour": "8",
+		  "minute": "04"
         },
         "text": {
           "headline": "The Dragon Factory",
@@ -44,12 +46,15 @@
       },
       {
         "media": {
-          "url": "https://youtu.be/_gvJCCZzmro",
-          "caption": "A young poised Whitney Houston in an interview with EbonyJet.",
-          "credit": "EbonyJet"
+          "url": "{{static_url}}/img/kop.jpg",
+          "caption": "King of Plagues. Published in 2011 by St. Martin's Griffin."
         },
         "start_date": {
-          "year": "1978"
+          "month": "12",
+          "day": "17",
+		  "year": "2011",
+          "hour": "9",
+		  "minute": "28"
         },
         "text": {
           "headline": "King of Plagues",
@@ -63,7 +68,11 @@
           "credit": "Arista Records"
         },
         "start_date": {
-          "year": "1978"
+          "month": "6",
+          "day": "15",
+		  "year": "2012",
+          "hour": "7",
+		  "minute": "23"
         },
         "text": {
           "headline": "Assassin’s Code",
@@ -72,9 +81,9 @@
       },
       {
         "media": {
-          "url": "https://youtu.be/A4jGzNm2yPI",
-          "caption": "Whitney Houston and Clive Davis discussing her discovery and her eponymous first album.",
-          "credit": "Sony Music Entertainment"
+          "url": "",
+          "caption": "",
+          "credit": ""
         },
         "start_date": {
           "year": "1983"
