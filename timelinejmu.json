@@ -63,9 +63,9 @@
       },
       {
         "media": {
-          "url": "https://youtu.be/H7_sqdkaAfo",
-          "caption": "I'm Every Women as performed by Whitney Houston.",
-          "credit": "Arista Records"
+          "url": "{{static_url}}/img/assassins-code.jpg",
+          "caption": "Assassin’s Code. 4th Novel in the Joe Ledger Series. Published in April 2012 by St. Martin's Griffin.",
+          "credit": ""
         },
         "start_date": {
           "month": "6",
@@ -76,7 +76,7 @@
         },
         "text": {
           "headline": "Assassin’s Code",
-          "text": "As a teen Houston's credits include background vocals for Jermaine Jackson, Lou Rawls and the Neville Brothers. She also sang on Chaka Khan's, 'I'm Every Woman,' a song which she later remade for the <i>Bodyguard</i> soundtrack which is the biggest selling soundtrack of all time. It sold over 42 million copies worldwide."
+          "text": ""
         }
       },
       {
@@ -86,11 +86,11 @@
           "credit": ""
         },
         "start_date": {
-          "year": "1983"
+          "year": ""
         },
         "text": {
           "headline": "Extinction Machine",
-          "text": "Houston is signed to Arista Records after exec Clive Davis sees her performing on stage with her mother in New York."
+          "text": ""
         }
       },
       {
