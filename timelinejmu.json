@@ -1,7 +1,7 @@
 {
     "title": {
         "media": {
-          "url": "https://drive.google.com/uc?export=view&id=1Kqan4TuzNebivh5i6_Zf2uCTsAnsKFWA",
+          "url": "{{static_url}}/img/patient-zero.jpg",
           "caption": "Patient Zero: A Joe Ledger Novel"
         },
         "text": {
@@ -12,13 +12,14 @@
     "events": [
       {
         "media": {
-          "url": "{{ static_url }}/img/examples/houston/family.jpg",
+          "url": "{{ static_url }}/img/patient-zero.jpg"",
           "caption": "Houston's mother and Gospel singer, Cissy Houston (left) and cousin Dionne Warwick.",
           "credit": "Cissy Houston photo:<a href='http://www.flickr.com/photos/11447043@N00/418180903/'>Tom Marcello</a><br/><a href='http://commons.wikimedia.org/wiki/File%3ADionne_Warwick_television_special_1969.JPG'>Dionne Warwick: CBS Television via Wikimedia Commons</a>"
         },
         "start_date": {
           "month": "11",
           "day": "27",
+		  "year": "2009",
           "hour": "10",
 		  "min": "22"
         },
