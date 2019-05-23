@@ -1,7 +1,7 @@
 {
     "title": {
         "media": {
-          "url": "{{static_url}}/img/patient-zero.jpg",
+          "url": "{{ static_url }}/img/patient-zero.jpg",
           "caption": "Patient Zero: A Joe Ledger Novel"
         },
         "text": {
@@ -12,7 +12,7 @@
     "events": [
       {
         "media": {
-          "url": "{{static_url}}/img/patient-zero.jpg",
+          "url": "{{ static_url }}/img/patient-zero.jpg",
           "caption": "Patient Zero. Published in March 2009 by St. Martins Griffin"
         },
         "start_date": {
@@ -29,7 +29,7 @@
       },
       {
         "media": {
-          "url": "{{static_url}}/img/dragon-factory.jpg",
+          "url": "{{ static_url }}/img/dragon-factory.jpg",
           "caption": "Dragon Factory. Published in March 2010 by St Martin's Griffin."
         },
         "start_date": {
@@ -46,7 +46,7 @@
       },
       {
         "media": {
-          "url": "{{static_url}}/img/kop.jpg",
+          "url": "{{ static_url }}/img/kop.jpg",
           "caption": "King of Plagues. Published in 2011 by St. Martin's Griffin."
         },
         "start_date": {
@@ -63,7 +63,7 @@
       },
       {
         "media": {
-          "url": "{{static_url}}/img/assassins-code.jpg",
+          "url": "{{ static_url }}/img/assassins-code.jpg",
           "caption": "Assassin’s Code. 4th Novel in the Joe Ledger Series. Published in April 2012 by St. Martin's Griffin.",
           "credit": ""
         },
